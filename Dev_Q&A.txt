@@ -1,0 +1,118 @@
+1. What is DevOps?
+DevOps is a transformative culture that improve the delivery 
+A DevOps Engineer is a professional who combines software development (Dev)
+and IT operations (Ops) skills to improve and streamline the process of developing, testing, and releasing software.
+
+2.What is the use of SSH?
+SSH(Secure Shell) is an access credential used in the SSH Protocol. it is a cryptographic network protocol that transfers 
+encrypted data over the network. It allows you to connect to a server, or multiple servers, without having to 
+remember or enter your password for each system that is to log in remotely from one system to another.
+
+3.what is the git lab?
+Git lab is an source managment tool and GitLab is a web-based DevOps lifecycle tool that provides 
+a Git repository and  it offering the most commonly used Git workflow.
+
+4.what is the maven ?
+Maven is a powerful build automation tool primarily used for Java projects.
+
+5.Can you explain the CICD process in your current project.
+In the current project we use the following tools orchestrated with Jenkins to achieve CICD.
+Maven, Sonar, AppScan, ArgoCD, and Kubernetes
+
+6.What is latest version of Jenkins or which version of Jenkins are you using?
+As of my last update, the latest Long-Term Support (LTS) version of Jenkins was 2.387.2, released in June 2023. However,
+Jenkins releases updates frequently, so there might be a newer version available now.
+
+7.What’s the difference between DevOps & Agile?
+agile : Agile is a method for creating software.
+devops:It is not related to software development. Instead, the software that is used by DevOps is pre-built, dependable, and simple to deploy.
+
+8.What is ‘Pair Programming’?
+Pair programming is a development technique in which two programmers work together at a single workstation.
+A person who writes code is called a driver and a person who observes and navigates each line of the code is called a navigator. 
+They may switch their role frequently.
+
+9.What do you mean by Configuration Management?
+The process of controlling and documenting change for the development system is called Configuration Management. 
+Configuration Management is part of the overall change management approach.
+
+10.What are the 7 Cs of DevOps 
+   *Continuous Integration
+   *Continuous Testing
+   *Continuous Delivery
+   *Continuous Deployment
+   *Continuous Monitoring
+   *Continuous Feedback
+   *Continuous Operations
+
+11.What is an Automated Testing
+Automated Testing is a technique where the Tester writes scripts on their own and uses suitable Software or Automation Tool to test the software. 
+It is an Automation Process of a Manual Process. It allows for executing repetitive tasks without the intervention of a Manual Tester.
+
+12.What is Ansible?
+Ansible is an open-source IT engine that automates application deployment, cloud provisioning, intra-service orchestration, and other IT tools.
+Ansible can be used to deploy the software on different servers at a time without human interaction.
+Ansible can also be used to configure the servers and create user accounts.
+
+13.What is a Puppet in DevOps?
+Puppet is an open-source configuration management automation tool.
+
+14.What is sudo command in Linux?
+Sudo (Super User DO) command in Linux is generally used as a prefix for some commands that only superusers are allowed to run.
+
+
+15.What Is Jenkins?
+Jenkins is a tool that is used for automation, and it is an open-source 
+server that allows all the developers to build, test and deploy software. 
+It works or runs on java as it is written in java. By using Jenkins we can make 
+a continuous integration of projects(jobs) or end-to-endpoint automation.
+
+16.What is an GIT HUB.
+GitHub is a web-based platform for version control and collaboration that uses Git, a distributed version control system. 
+It allows developers to store, manage, and track changes to their code repositories. 
+GitHub provides tools for collaborative development, making it easier for multiple people to work on the same project simultaneously.
+
+17.Explain the concept of branching in Git.
+Branching means diverging from the mainline and continuing to work separately without messing with the mainline.
+Nearly every VCS has some form of branch support. In Git, 
+
+18.What is Kubernetes?
+Kubernetes is an open-source platform designed to automate deploying, scaling,
+and operating application containers. Originally developed by Google, it has become the standard for managing containerized workloads and services.
+
+19.What is the Blue/Green Deployment Pattern?
+Blue Green Deployment is just like we deploy two versions of our application, one is the stable version, and another is a new feature version.
+
+20.What Is Inventory ?
+In Ansible, an inventory is a file with specifying the information of hosts that going to be managed.
+It contains information such as hostnames, IP addresses, and groups of organization. The inventory can be either static or dynamic,
+It’s a key component for targeting and managing nodes infrastructure in Ansible.
+
+21.What Is The Foundational Programming Language Of Ansible?
+Ansible is built on top of Python, enhancing its simplicity for clear playbooks and
+versatility in creating robust modules. Python’s wide range of adoption provided good community support, 
+making Ansible an effective and flexible automation tool.
+
+22.What Is AWS And Why Is It So Popular?
+Amazon Web Services (AWS), is an important cloud computing platform known for its wide service offerings. 
+Its popularity is developed through its scalability, cost-effectiveness, and global infrastructure. and cost reduse and innovate.
+
+23.What Is An EC2 Instance And How Does It Work?
+An EC2 instance stands for Elastic Cloud Compute service, It is a virtual server in the cloud & When we launch this, 
+it will run the selected operating system with a specified application.
+
+24.What is Docker ?
+Docker is a containerization platform that allows to package an application with all its dependencies into one single entity as single container 
+which can be easily deployed and run on any machine that supports docker. and its portable solution for applicaton deployment.
+
+25.What is Docker Hub?
+Docker Hub is container registry that serves as a centralized repository for Docker images. and use to share and download container images.
+
+26.What is Docker Image?
+Docker Image is an executable package of software that includes everything needed to run an application.
+
+27.What is Docker Container?
+Container is a virtual environment that bundles application code with all the dependencies required to run the application.
+
+
+
